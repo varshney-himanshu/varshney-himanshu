@@ -8,9 +8,6 @@ Software Engineer with 4+ years of experience. Currently working full time as Pr
 - 🌱 Currently learning Typescript
 - 📫 How to reach me: [tohimanshuvarshne@gmail.com]\
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=varshney-himanshu&theme=onedark)
-
 ## 💼 Connect with me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/varshney-himanshu)
 
