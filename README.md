@@ -6,7 +6,7 @@ Software Engineer with 4+ years of experience. Currently working full time as Pr
 ## 🚀 About Me
 - 🔭 Currently working on cool multiplayer game project!
 - 🌱 Currently learning Typescript
-- 📫 How to reach me: [tohimanshuvarshne@gmail.com]
+- 📫 How to reach me: [tohimanshuvarshney@gmail.com]
 
 ## 💼 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/varshney-himanshu)
