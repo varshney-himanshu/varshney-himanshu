@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Himanshu Varshney! 👋
+Software Engineer with 4+ years of experience. Currently working full time as Product Engineer for AVRL. Super passionate about games and game dev.
 
-<!--
-**varshney-himanshu/varshney-himanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=varshney-himanshu&color=blue)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on cool game project!
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me: [tohimanshuvarshne@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshney-himanshu&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=varshney-himanshu&theme=onedark)
+
+## 💼 Connect with me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/varshney-himanshu)
+
+## 🛠 Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
