@@ -9,7 +9,7 @@ Software Engineer with 4+ years of experience. Currently working full time as Pr
 - 📫 How to reach me: [tohimanshuvarshne@gmail.com]\
 
 ## 💼 Connect with me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/varshney-himanshu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/varshney-himanshu)
 
 ## 🛠 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
