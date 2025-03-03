@@ -6,10 +6,7 @@ Software Engineer with 4+ years of experience. Currently working full time as Pr
 ## 🚀 About Me
 - 🔭 I’m currently working on cool game project!
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: [tohimanshuvarshne@gmail.com]
-
-## 📈 GitHub Stats
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshney-himanshu&show_icons=true&theme=radical)
+- 📫 How to reach me: [tohimanshuvarshne@gmail.com]\
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=varshney-himanshu&theme=onedark)
