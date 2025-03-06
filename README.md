@@ -4,7 +4,7 @@ Software Engineer with 4+ years of experience. Currently working full time as Pr
 ![Profile Views](https://komarev.com/ghpvc/?username=varshney-himanshu&color=blue)
 
 ## 🚀 About Me
-- 🔭 Currently working on cool multiplayer game project!
+- 🔭 Currently working on a cool multiplayer game project!
 - 🌱 Currently learning Typescript
 - 📫 How to reach me: [tohimanshuvarshney@gmail.com]
 
